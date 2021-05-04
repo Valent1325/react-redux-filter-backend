@@ -1,0 +1,3137 @@
+[
+  {
+    "id": 222904,
+    "createdDate": "2021-04-26T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 85890,
+    "isPreorder": true,
+    "preorderStartDate": "2021-04-27T20:18:52.5571181+03:00",
+    "isOutOfStock": false,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "8 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-8-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-27T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 84890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": false,
+    "isLatest": true,
+    "hasFreeDelivery": true,
+    "promo": "Скидка 31 990 рублей при оплате онлайн",
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "12 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 5,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-12-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-23T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 83890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-25T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 82890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 4,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  },
+  {
+    "id": 222904,
+    "createdDate": "2021-04-20T20:18:52.5571181+03:00",
+    "name": "Смартфон Samsung Galaxy A71 128GB Silver",
+    "brandName": "Samsung",
+    "thumbImageUrlConverted": "//static.beeline.ru/shop/media/goods/196x302/14f22b46-08ea-4edd-9540-ed317c221b34.png",
+    "oldPrice": null,
+    "newPrice": 81890,
+    "isPreorder": false,
+    "preorderStartDate": null,
+    "isOutOfStock": true,
+    "isLatest": false,
+    "hasFreeDelivery": true,
+    "promo": null,
+    "urlSlug": "smartfon-samsung-galaxy-a71-128gb-silver",
+    "parameters": [
+      {
+        "name": "Объем памяти",
+        "value": "128 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Объем оперативной памяти",
+        "value": "4 Гб",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Камера",
+        "value": "64+12+5+5 Мпикс",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Экран",
+        "value": "6.7 дюйм",
+        "type": "common",
+        "color": null
+      },
+      {
+        "name": "Цвет",
+        "value": "серый",
+        "type": "color",
+        "color": "#808080"
+      }
+    ],
+    "rate": 3,
+    "feedbackCount": 4,
+    "filters": {
+      "promotion-slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+      "tsvet": "tsvet-seryij808080",
+      "obem-operativnoi-pamiati": "obem-operativnoi-pamiati-4-gb"
+    }
+  }
+]

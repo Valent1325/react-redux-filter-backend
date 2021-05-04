@@ -1,0 +1,213 @@
+[
+  {
+    "name": "Цена",
+    "slug": "price",
+    "type": "range",
+    "valueFrom": null,
+    "valueTo": null,
+    "options": null,
+    "isOpen": true,
+    "min": 3490,
+    "max": 159990
+  },
+  {
+    "name": "Акция",
+    "slug": "promotion-slug",
+    "type": "common",
+    "isOpen": true,
+    "options": [
+      {
+        "name": "Скидка 10% при покупке с товарами Xiaomi",
+        "color": null,
+        "slug": "skidka-10-pri-pokupke-s-tovarami-xiaomi",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 8
+      },
+      {
+        "name": "Скидка 1 000 рублей по промокоду",
+        "color": null,
+        "slug": "skidka-1-000-rublei-po-promokodu-1000sg-2",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 5
+      },
+      {
+        "name": "Скидка 15 000 рублей по промокоду",
+        "color": null,
+        "slug": "skidka-15-000-rublei-po-promokodu-15000sg",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 4
+      },
+      {
+        "name": "Беспроводные наушники в подарок",
+        "color": null,
+        "slug": "besprovodnye-naushniki-v-podarok",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 3
+      },
+      {
+        "name": "Скидка 10 000 рублей по промокоду",
+        "color": null,
+        "slug": "skidka-10-000-rublei-po-promokodu-10000sg",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 3
+      },
+      {
+        "name": "Скидка 5 000 рублей по промокоду",
+        "color": null,
+        "slug": "skidka-5-000-rublei-po-promokodu-5000sg",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 2
+      },
+      {
+        "name": "Скидка 2 000 рублей по промокоду 2000AP",
+        "color": null,
+        "slug": "skidka-2-000-rublei-po-promokodu-2000ap",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 16
+      }
+    ]
+  },
+  {
+    "name": "Цвет",
+    "slug": "tsvet",
+    "type": "color",
+    "isOpen": false,
+    "options": [
+      {
+        "name": "черный",
+        "color": "#000000",
+        "slug": "tsvet-chernyij000000",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 124
+      },
+      {
+        "name": "коралловый",
+        "color": "#FF7F50",
+        "slug": "tsvet-korallovyi",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 3
+      },
+      {
+        "name": "мятный",
+        "color": "#aaf0d1",
+        "slug": "tsvet-miatnyi-99f2da",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 1
+      },
+      {
+        "name": "белый",
+        "color": "#ededed",
+        "slug": "tsvet-belyijffffff",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 38
+      },
+      {
+        "name": "серый",
+        "color": "#808080",
+        "slug": "tsvet-seryij808080",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 27
+      },
+      {
+        "name": "салатовый",
+        "color": "#7bfe7b",
+        "slug": "tsvet-salatovyi-99ff99",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 2
+      },
+      {
+        "name": "золотой",
+        "color": "#FFD700",
+        "slug": "tsvet-zolotojffd700",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 13
+      }
+    ]
+  },
+  {
+    "name": "Объем оперативной памяти",
+    "slug": "obem-operativnoi-pamiati",
+    "type": "common",
+    "isOpen": false,
+    "options": [
+      {
+        "name": "16 Гб",
+        "color": null,
+        "slug": "obem-operativnoi-pamiati-16-gb",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 2
+      },
+      {
+        "name": "8 Гб",
+        "color": null,
+        "slug": "obem-operativnoi-pamiati-8-gb",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 48
+      },
+      {
+        "name": "6 Гб",
+        "color": null,
+        "slug": "obem-operativnoi-pamiati-6-gb",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 41
+      },
+      {
+        "name": "4 Гб",
+        "color": null,
+        "slug": "obem-operativnoi-pamiati-4-gb",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 98
+      },
+      {
+        "name": "3 Гб",
+        "color": null,
+        "slug": "obem-operativnoj-pamyati-3072-mb",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 54
+      },
+      {
+        "name": "2 Гб",
+        "color": null,
+        "slug": "obem-operativnoj-pamyati-2048-mb",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 58
+      },
+      {
+        "name": "1 Гб",
+        "color": null,
+        "slug": "obem-operativnoj-pamyati-1024-mb",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 19
+      },
+      {
+        "name": "12 Гб",
+        "color": null,
+        "slug": "obem-operativnoi-pamiati-12-gb",
+        "isChecked": false,
+        "isDisabled": false,
+        "productsCount": 12
+      }
+    ]
+  }
+]
